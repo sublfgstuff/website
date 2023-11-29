@@ -1,15 +1,18 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: jenni@sublfg.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Rajnil Mukherjee
+subtitle: The Aaevelion Project
+email_1: rajnilmukherjee.rm@gmail.com
+email_2: ms21213@iisermohali.ac.in
+description: Welcome to my website!
+baseurl: #the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+author: Rajnil Mukherjee
+street_address: F6/2 Indraloke Housing Estate 3, Paikpara
+city: Kolkata
+state: West Bengal
+zip_code: 700002
+country: India
+phone: +91 8017965462
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,12 +23,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/Aaevelion
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Google-Plus: 
+  Instagram: https://www.instagram.com/rajnil_mukherjee/
+  LinkedIn: https://www.linkedin.com/in/rajnil-mukherjee-503a5a1ba/
+  Twitter: 
   Facebook:
   Slack:
 

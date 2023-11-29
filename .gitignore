@@ -1,6 +1,12 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-Gemfile.lock
 *.gem
+.bundle
+.sass-cache
 .jekyll-cache
+_site
+Gemfile.lock
+unused
+bootstrap-reference.html
+test.py
+Untitled-1.py
+Untitled-1.md
+
